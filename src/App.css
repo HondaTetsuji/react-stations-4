@@ -14,8 +14,7 @@
   margin: 25px 0;
 }
 
-.profile-name,
-.review-reviewer {
+.profile-name {
   color: #555555;
   list-style-type: none;
   width: calc(100% - 25px);
